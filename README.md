@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikash Kumar
+- 👋 Hi, I’m VIKASH
 - 👀 Passionate about coding, software engineering, and exploring new Technical Skill
 - 🌱 Currently learning C++ and enhancing my skills in data structures, algorithms, and problem-solving
 - 💡 Interested in system design, object-oriented programming, and software development
