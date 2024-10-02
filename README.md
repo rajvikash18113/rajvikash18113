@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 < About Me: / >
 - 👋 Hi, I’m Vikash Kumar <br> - 👀 Passionate about coding & exploring new Technical Skill<br>- 🌱 Currently learning C++ and enhancing my skills in data structures, algorithms, and problem-solving<br>- 💡 Interested in system design, object-oriented programming, and software development<br>- 🫴🏻 Let’s connect: rajvikash18113@gmail.com || www.linkedin.com/in/rajvikash18113<br>
 
 [![](https://visitcount.itsvg.in/api?id=rajvikash18113&icon=2&color=3)](https://visitcount.itsvg.in) 
@@ -7,19 +7,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false)<br/>
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" />      </a>
-<a href="mailto:rajvikash18113@gmail.com" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://twitter.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" />     </a>
-<a href="https://fb.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajvikash18113" height="30" width="40" />     </a>
-<a href="https://instagram.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajvikash18113" height="30" width="40" />     </a>
+<a href="https://linkedin.com/in/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" /></a>
+<a href="https://twitter.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" /></a>
+<a href="https://fb.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajvikash18113" height="30" width="40" /></a>
+<a href="https://instagram.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajvikash18113" height="30" width="40" /></a>
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvikash18113) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajvikash18113)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/rajvikash18113)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajvikash18113) -->
 
-## Coding 
+## 📟 Coding :
 <a href="https://www.codechef.com/users/rajvikash18113" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
 </a>
@@ -70,7 +67,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" /></a>
@@ -80,7 +77,7 @@
 <a href="https://www.hackerrank.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajvikash18113" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajvikash18113" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvikash18113" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 
