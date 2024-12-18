@@ -7,16 +7,41 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false)<br/>
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" /></a>
-<a href="https://twitter.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" /></a>
-<a href="https://fb.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajvikash18113" height="30" width="40" /></a>
-<a href="https://instagram.com/rajvikash18113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajvikash18113" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajvikash18113" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" />
+</a>
+<a href="https://twitter.com/rajvikash18113" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" />
+</a>
+<a href="https://fb.com/rajvikash18113" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajvikash18113" height="30" width="40" />
+</a>
+<a href="https://instagram.com/rajvikash18113" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajvikash18113" height="30" width="40" />
+  <a href="https://wa.me/916299642433" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
+</a>
+</a>
+<!-- <a href="mailto:rajvikash18113@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Gmail_logo_2013.svg/1024px-Google_Gmail_logo_2013.svg.png" alt="rajvikash18113@gmail.com" height="30" width="40" />
+</a>
+<a href="https://t.me/rajvikash18113" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_logo.svg" alt="Telegram" height="30" width="40" />
+</a> -->
+
+
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvikash18113) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajvikash18113)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/rajvikash18113)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajvikash18113) -->
 
 ## 📟 Coding :
+<a href="https://www.geeksforgeeks.org/user/rajvikash18113/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajvikash18113" height="30" width="40" />
+  <a href="https://www.leetcode.com/rajvikash18113" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+</a>
+</a>
 <a href="https://www.codechef.com/users/rajvikash18113" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
 </a>
@@ -26,9 +51,9 @@
 <a href="https://codeforces.com/profile/rajvikash18113" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
 </a>
-<a href="https://www.leetcode.com/rajvikash18113" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvikash18113" height="30" width="40" />
-</a>
+
+
+
 
 
 ## 💻 Tech Stack:
