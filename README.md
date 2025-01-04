@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Vikash Kumar <br> - 👀 Passionate about coding & exploring new Technical Skill<br>- 🌱 Currently learning C++ and enhancing my skills in data structures, algorithms, and problem-solving<br>- 💡 Interested in system design, object-oriented programming, and software development<br>- 🫴🏻 Let’s connect: rajvikash18113@gmail.com || www.linkedin.com/in/rajvikash18113<br>
 
 [![](https://visitcount.itsvg.in/api?id=rajvikash18113&icon=2&color=3)](https://visitcount.itsvg.in) 
-[![Visit Count](https://visitcount.itsvg.in/api?id=rajvikash18113&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rajvikash18113&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
 ## ⚡Github Streak: 
