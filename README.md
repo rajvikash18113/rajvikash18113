@@ -4,26 +4,30 @@
 [![](https://visitcount.itsvg.in/api?id=rajvikash18113&icon=2&color=3)](https://visitcount.itsvg.in) 
 
 ## ⚡Github Streak: 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false)<br/>
+<br align = "center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false)<br/>
 
 ## 🌐 Socials:
-<div align = "center">
-  <a href="https://linkedin.com/in/rajvikash18113" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajvikash18113" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/rajvikash18113" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajvikash18113" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/rajvikash18113" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajvikash18113" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/rajvikash18113" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajvikash18113" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/916299642433" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
+<div align="center">
+<a href="https://www.linkedin.com/in/rajvikash18113" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="30" alt="linkedin logo" />
+</a>
+<a href="mailto:rajvikash18113@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="30" alt="gmail logo" />
+</a>
+<a href="https://x.com/rajvikash18113" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="30" alt="twitter logo" />
+</a>
+<a href="https://instagram.com/rajvikash18113" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="30" alt="instagram logo" />
+</a>
+<a href="https://wa.me/916299642433" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="30" alt="whatsapp logo" />
+</a>
+<a href="https://faceboook.com/rajvikash18113" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="30" alt="facebook logo" />
+</a>
 </div>
+
 
 <!-- <a href="mailto:rajvikash18113@gmail.com" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Google_Gmail_logo_2013.svg/1024px-Google_Gmail_logo_2013.svg.png" alt="rajvikash18113@gmail.com" height="30" width="40" />
