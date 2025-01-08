@@ -45,21 +45,23 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rajvikash18113) -->
 
 ## 📟 Coding :
-<a href="https://www.geeksforgeeks.org/user/rajvikash18113/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajvikash18113" height="30" width="40" />
-  <a href="https://www.leetcode.com/rajvikash18113" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
-</a>
-</a>
-<a href="https://www.codechef.com/users/rajvikash18113" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://www.hackerrank.com/rajvikash18113" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
-</a>
-<a href="https://codeforces.com/profile/rajvikash18113" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
-</a>
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/user/rajvikash18113/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.leetcode.com/rajvikash18113" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.codechef.com/users/rajvikash18113" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.hackerrank.com/rajvikash18113" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://codeforces.com/profile/rajvikash18113" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rajvikash18113" height="30" width="40" style="margin-right: 10px;" />
+  </a>
+</div>
 
 
 
