@@ -6,7 +6,7 @@
 
 
 ## ⚡Github Streak: 
-<br align = "center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false)<br/>
+<br align = "center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikash18113&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 ## 🌐 Socials:
 <div align="center">
@@ -97,8 +97,8 @@
 ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajvikash18113&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikash18113&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api?username=rajvikash18113&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
+
 
 
 
