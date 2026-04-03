@@ -38,7 +38,7 @@
   </tr>
 </table>
 
----
+<br/>
 
 ## 📊 Consistency & Stats
 
@@ -58,63 +58,60 @@
 
 </div>
 
----
+<br/>
 
 ## 🌐 Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/linkedin" width="42" height="42" alt="LinkedIn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:rajvikash18113@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="42" height="42" alt="Gmail"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="42" height="42" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/x/ffffff" width="42" height="42" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" alt="X"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/instagram" width="42" height="42" alt="Instagram"/>
+  <img src="https://cdn.simpleicons.org/instagram" width="36" height="36" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/916299642433">
-  <img src="https://cdn.simpleicons.org/whatsapp" width="42" height="42" alt="WhatsApp"/>
+  <img src="https://cdn.simpleicons.org/whatsapp" width="36" height="36" alt="WhatsApp"/>
 </a>
 
 </div>
 
----
 
 ## ⚔️ Competitive Programming
 
 <div align="center">
 
 <a href="https://www.leetcode.com/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/leetcode" width="42" height="42" alt="LeetCode"/>
+  <img src="https://cdn.simpleicons.org/leetcode" width="36" height="36" alt="LeetCode"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/codechef" width="42" height="42" alt="CodeChef"/>
+  <img src="https://cdn.simpleicons.org/codechef" width="36" height="36" alt="CodeChef"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/codeforces" width="42" height="42" alt="Codeforces"/>
+  <img src="https://cdn.simpleicons.org/codeforces" width="36" height="36" alt="Codeforces"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/rajvikash18113">
-  <img src="https://cdn.simpleicons.org/hackerrank" width="42" height="42" alt="HackerRank"/>
+  <img src="https://cdn.simpleicons.org/hackerrank" width="36" height="36" alt="HackerRank"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/rajvikash18113/">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks" width="42" height="42" alt="GeeksForGeeks"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" width="36" height="36" alt="GeeksForGeeks"/>
 </a>
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -149,10 +146,10 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+<br/>
 
 ### ✍️ Dev Quote of the Day
-
+---
 <div align="center">
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
