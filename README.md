@@ -44,17 +44,13 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=tokyonight&hide_border=true&background=0D1117&ring=7C86FF&fire=FF6B6B&currStreakLabel=7C86FF)
-
 </div>
 
-<br/>
+
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajvikash18113&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=7C86FF&icon_color=7C86FF)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikash18113&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=7C86FF)
+<br align = "center"> ![](https://github-readme-streak-stats.herokuapp.com/?user=rajvikash18113&theme=highcontrast&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikash18113&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
 
 </div>
 
